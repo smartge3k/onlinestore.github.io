@@ -1,2 +1,2 @@
 # onlinestore.github.io
-it does not include the database for privacy.
+Images are not included.
