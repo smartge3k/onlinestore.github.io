@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$database = "shaheenoutdoors";
+$database = "database";
 $username = "root";
 $password = "";
 
